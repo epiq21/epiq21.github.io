@@ -33,17 +33,21 @@ Examples can be found on the pages of the previous two EPIQ workshops, as well a
 - [EPIQ SIGCOMM 2020](https://conferences.sigcomm.org/sigcomm/2020/workshop-epiq.html)
 - [QUIPS NDSS 2020](https://www.ndss-symposium.org/ndss2020/cfp-quips-workshop/)
 
+Like the main CoNEXT conference, EPIQ 21 will take place entirely online (probably via Zoom) in the German timezone (CET). 
+
 ## Submission Formats
 
 EPIQ solicits two types of submissions for presentation and discussion at the workshop: academic papers and posters.
 
-**Paper submissions** must be original, unpublished work, and not under consideration at another conference or journal. Papers may be up to six pages in length, including all figures, tables, and appendices, but excluding references, for which up to one extra page may be used. The review process is double-blind. Papers must otherwise follow the [formatting requirements of the main ACM CoNEXT 2021 conference](https://conferences2.sigcomm.org/co-next/2021/#!/cfp) (mainly: two-column, 10pt, acm class). Accepted papers will be published in the ACM Digital Library. Authors of accepted papers are required to (virtually) present and discuss their papers at the workshop.
+**Paper submissions** must be original, unpublished work, and not under consideration at another conference or journal. Papers may be up to six pages in length, including all figures, tables, and appendices, but excluding references, for which up to one extra page may be used. The review process is double-blind. Papers must otherwise follow the [formatting requirements of the main ACM CoNEXT 2021 conference](https://conferences2.sigcomm.org/co-next/2021/#!/cfp) (mainly: two-column, 10pt, acm class). Accepted papers will be published in the ACM Digital Library. Authors of accepted papers are required to virtually present and discuss their papers at the workshop.
 
 Poster submissions may be up to two pages in length, and should describe early work, discussion points, new concepts, early tooling development, etc. Accepted posters will be presented in a shorter “lightning talk” to encourage discussion. Poster submissions will not be included in the proceedings, but will be made available via the workshop website.
 
 **Please submit papers and poster proposals at [epiq21.hotcrp.com](https://epiq21.hotcrp.com/)**.
 
 ## Deadlines
+
+All deadlines are UTC 23:59:59.
 
 1. CFP opens: 15 July
 2. Submission deadline: 17 September
