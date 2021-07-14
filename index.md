@@ -31,7 +31,7 @@ We encourage the submission of early results, negative results, and independentl
 Examples can be found on the pages of the previous two EPIQ workshops, as well as the page of the QUIPS workshop (which will no longer be organized):
 - [EPIQ CoNEXT 2018](https://conferences2.sigcomm.org/co-next/2018/#!/epiqprogram)
 - [EPIQ SIGCOMM 2020](https://conferences.sigcomm.org/sigcomm/2020/workshop-epiq.html)
-- [QUIPS NSDI 2020](https://www.ndss-symposium.org/ndss2020/cfp-quips-workshop/)
+- [QUIPS NDSS 2020](https://www.ndss-symposium.org/ndss2020/cfp-quips-workshop/)
 
 ## Submission Formats
 
