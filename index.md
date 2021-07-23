@@ -76,7 +76,7 @@ All deadlines are UTC 23:59:59.
 - Mirja Kühlewind, Ericsson
 - Jan Rüth, RWTH Aachen
 - David Schinazi, Google
-- Felix Gunther, ETH Zurich
+- Felix Günther, ETH Zurich
 - Martin Thomson, Mozilla
 - Cristina Nita-Rotaru, Northeastern University
 - Colin Perkins, University of Glasgow
