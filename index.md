@@ -50,7 +50,7 @@ Poster submissions may be up to two pages in length, and should describe early w
 All deadlines are UTC 23:59:59.
 
 1. CFP opens: 15 July
-2. Submission deadline: 17 September
+2. Submission deadline: ~~17 September~~ 24 September (extended)
 3. Notification deadline: 18 October
 4. Camera ready deadline: 25 October
 5. Workshop: **Tuesday 7 December**
