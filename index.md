@@ -10,7 +10,7 @@ The workshop will take place on **Tuesday December 7th 2021**, between 12:15PM a
 
 All times are in Central European Time (CET, UTC+1).
 
-Schedule is subject to change. 
+Schedule is subject to change. All keynotes and paper slots include time for Q&A. 
 
 <table class="tg">
 <thead>
@@ -28,28 +28,37 @@ Schedule is subject to change.
   </tr>
   <tr>
     <td class="tg-0pky">12:30 - 1:30PM</td>
-    <td class="tg-0pky">Keynote 1 : Nick Banks - Microsoft</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Keynote 1 : <b>QUIC usage at Microsoft</b><br/>Nick Banks</td>
+    <td class="tg-0pky"><a href="TBD">slides</a>, <a href="TBD">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">1:30 - 1:45PM</td>
-    <td class="tg-0pky"><b>Break</b></td>
+    <td class="tg-0pky">Break</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">1:45 - 2:15PM</td>
-    <td class="tg-0pky">Paper 1</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><b>Verifying QUIC implementations using Ivy</b><br/>
+Christophe Crochet, Tom Rousseaux, Maxime Piraux, Jean-François Sambon, Axel Legay <i>(UCLouvain)</i></td>
+    </td>
+    <td class="tg-0pky">
+      <a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a>
+    </td>
   </tr>
   <tr>
     <td class="tg-0pky">2:15 - 2:45PM</td>
-    <td class="tg-0pky">Paper 2</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">
+       <b>Days of Future Past: An Optimization-based Adaptive Bitrate Algorithm over HTTP/3</b><br/>
+        Daniele Lorenzi <i>(University of Padua)</i>; Minh Nguyen, Farzad Tashtarian <i>(Alpen-Adria-Universität Klagenfurt)</i>; Christian Timmerer <i>(Alpen-Adria Universität Klagenfurt)</i>; Hermann Hellwagner <i>(Alpen-Adria-Universität Klagenfurt)</i>; Simone Milani <i>(University of Padua)</i>
+    </td>
+    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">2:45 - 3:15PM</td>
-    <td class="tg-0pky">Paper 3</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><b>Tracking the QUIC Spin Bit on Tofino</b><br/>
+    Ike Kunze, Constantin Sander, Klaus Wehrle, Jan Rüth <i>(RWTH Aachen University)</i>
+    </td>
+    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">3:15 - 3:30PM</td>
@@ -58,18 +67,22 @@ Schedule is subject to change.
   </tr>
   <tr>
     <td class="tg-0pky">3:30 - 4:00PM</td>
-    <td class="tg-0pky">Paper 4</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><b>The Search of the Path MTU with QUIC</b><br/>
+Timo Völker, Michael Tüxen <i>(FH Münster University of Applied Sciences)</i>; Erwin P. Rathgeb <i>(University of Duisburg-Essen)</i></td>
+    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">4:00 - 4:30PM</td>
-    <td class="tg-0pky">Paper 5</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><b>Evaluation of QUIC-based MASQUE Proxying</b><br/>
+Mirja Kühlewind, Matias Carlander-Reuterfelt, Marcus Ihlar, Magnus Westerlund <i>(Ericsson)</i></td>
+    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">4:30 - 5:00PM</td>
-    <td class="tg-0pky">Paper 6</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">
+      <b>Congestion Control for Real-time Media over QUIC</b><br/>
+        Mathis Engelbart, Jörg Ott <i>(Technical University of Munich)</i>
+    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">5:00 - 5:15PM</td>
@@ -77,9 +90,9 @@ Schedule is subject to change.
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">5:15 - 6PM</td>
-    <td class="tg-0pky">Keynote 2 : Tommy Pauly - Apple</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">5:15 - 6:00PM</td>
+    <td class="tg-0pky">Keynote 2 : To be confirmed</td>
+    <td class="tg-0pky"><a href="TBD">slides</a>, <a href="TBD">recording</a></td>
   </tr>
 </tbody>
 </table>
