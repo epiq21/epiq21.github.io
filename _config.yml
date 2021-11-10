@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
+markdown: GFM
 title: EPIQ 2021
 description: 3rd Workshop on the Evolution, Performance and Interoperability of QUIC
