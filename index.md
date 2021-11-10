@@ -1,8 +1,98 @@
-## Call For Submissions
+## Introduction
 
 The transport protocol QUIC has evolved from a proprietary effort undertaken by Google to a next generation transport protocol [recently standardized](https://www.ietf.org/blog/innovative-new-technology-for-sending-data/) in the Internet Engineering Task Force (IETF). While its original motivation and design was to support next-generation Web traffic using HTTP/2, embedding QUIC into the Internet architecture raises exciting challenges beyond the necessary engineering efforts. Both Google QUIC and IETF QUIC have seen deployment and motivated research papers measuring, extending, and evaluating the protocol from various perspectives.
 
 The [ACM CoNEXT 2021](https://conferences2.sigcomm.org/co-next/2021) Workshop on the Evolution, Performance, and Interoperability of QUIC (EPIQ) seeks to further foster this vibrant community. We invite researchers from **academia and industry** as well as engineers to explore novel ideas and future directions of QUIC and its interaction with applications and networks.
+
+## Agenda
+
+The workshop will take place on **Tuesday December 7th 2021**, between 12:15PM and 6PM.
+
+All times are in Central European Time (CET, UTC+1).
+
+Schedule is subject to change. 
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Timeslot</th>
+    <th class="tg-0pky">Content</th>
+    <th class="tg-0pky">Artefacts</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">12:15 - 12:30PM</td>
+    <td class="tg-0pky">Opening</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12:30 - 1:30PM</td>
+    <td class="tg-0pky">Keynote 1 : Nick Banks - Microsoft</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1:30 - 1:45PM</td>
+    <td class="tg-0pky"><b>Break</b></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1:45 - 2:15PM</td>
+    <td class="tg-0pky">Paper 1</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2:15 - 2:45PM</td>
+    <td class="tg-0pky">Paper 2</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2:45 - 3:15PM</td>
+    <td class="tg-0pky">Paper 3</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3:15 - 3:30PM</td>
+    <td class="tg-0pky">Break</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3:30 - 4:00PM</td>
+    <td class="tg-0pky">Paper 4</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4:00 - 4:30PM</td>
+    <td class="tg-0pky">Paper 5</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4:30 - 5:00PM</td>
+    <td class="tg-0pky">Paper 6</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">5:00 - 5:15PM</td>
+    <td class="tg-0pky">break</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">5:15 - 6PM</td>
+    <td class="tg-0pky">Keynote 2 : Tommy Pauly - Apple</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+
+## Practicals
+
+The workshop will be entirely virtual via Zoom (links to be posted later).
+
+Additional chat will take place on the [QUIC slack group](https://quicdev.slack.com/).
+
+The workshop will be recorded and videos posted to YouTube afterwards. 
+
+## Call For Submissions
 
 EPIQ solicits two types of submissions, for presentation and discussion at the workshop: **academic papers** and **posters**. Submissions of both types should focus on topics related to the rise of QUIC on the mobile and fixed Internet as well as enterprise and datacenter networks. _Only papers focusing on the IETF standard of QUIC are in scope (papers covering the outdated “Google QUIC” are not, unless they thoroughly compare with the IETF version)_. 
 
