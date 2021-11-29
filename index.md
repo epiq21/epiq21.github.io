@@ -6,7 +6,7 @@ The [ACM CoNEXT 2021](https://conferences2.sigcomm.org/co-next/2021) Workshop on
 
 ## Agenda
 
-The workshop will take place on **Tuesday December 7th 2021**, between 12:15PM and 6PM.
+The workshop will take place on **Tuesday December 7th 2021**, between 12:00PM and 6:00PM.
 
 All times are in Central European Time (CET, UTC+1).
 
@@ -101,9 +101,14 @@ Mirja Kühlewind, Matias Carlander-Reuterfelt, Marcus Ihlar, Magnus Westerlund <
 
 The workshop will be entirely virtual via Zoom (links to be posted later).
 
-Additional chat will take place on the [QUIC slack group](https://quicdev.slack.com/).
+Note that to attend the workshop, **you must register for the CoNEXT conference**.
+This can be done on [this dedicated registration page](https://conferences2.sigcomm.org/co-next/2021/#!/registration).
+
+Additional chat will take place on the [SIGCOMM slack group](https://sigcomm.slack.com), via the dedicated "conext21-workshop-epiq" channel. 
+If you are not yet registered there, you can do so [via this link](https://sigcomm.slack.com/join/shared_invite/zt-uhdre6eo-dcEZe7iZWLPMlMdaEMAl5g#/shared-invite/email).
 
 The workshop will be recorded and videos posted to YouTube afterwards. 
+
 
 ## Call For Submissions
 
