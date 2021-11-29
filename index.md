@@ -91,7 +91,7 @@ Mirja Kühlewind, Matias Carlander-Reuterfelt, Marcus Ihlar, Magnus Westerlund <
   </tr>
   <tr>
     <td class="tg-0pky">5:15 - 6:00PM</td>
-    <td class="tg-0pky">Keynote 2 : To be confirmed</td>
+    <td class="tg-0pky">Keynote 2 : <b>QUIC usage at Apple</b><br/>Tommy Pauly</td>
     <td class="tg-0pky"><a href="TBD">slides</a>, <a href="TBD">recording</a></td>
   </tr>
 </tbody>
