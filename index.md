@@ -24,7 +24,7 @@ Schedule is subject to change. All keynotes and paper slots include time for Q&A
   <tr>
     <td class="tg-0pky">12:15 - 12:30PM</td>
     <td class="tg-0pky">Opening</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://github.com/epiq21/epiq21.github.io/raw/main/slides/EPIQ_introduction.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=GMNvOtQFro0">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12:30 - 1:30PM</td>
