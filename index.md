@@ -29,7 +29,7 @@ Schedule is subject to change. All keynotes and paper slots include time for Q&A
   <tr>
     <td class="tg-0pky">12:30 - 1:30PM</td>
     <td class="tg-0pky">Keynote 1 : <b>QUIC usage at Microsoft</b><br/>Nick Banks</td>
-    <td class="tg-0pky"><a href="TBD">slides</a>, <a href="TBD">recording</a></td>
+    <td class="tg-0pky"><a href="https://github.com/epiq21/epiq21.github.io/raw/main/slides/keynote1_microsoft.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=GMNvOtQFro0">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">1:30 - 1:45PM</td>
@@ -42,7 +42,7 @@ Schedule is subject to change. All keynotes and paper slots include time for Q&A
 Christophe Crochet, Tom Rousseaux, Maxime Piraux, Jean-François Sambon, Axel Legay <i>(UCLouvain)</i></td>
     </td>
     <td class="tg-0pky">
-      <a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a>
+      <a href="https://dl.acm.org/doi/10.1145/3488660.3493803">paper</a>, <a href="https://github.com/epiq21/epiq21.github.io/raw/main/slides/paper1_verifyingQUIC.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=GMNvOtQFro0">recording</a>
     </td>
   </tr>
   <tr>
@@ -51,14 +51,14 @@ Christophe Crochet, Tom Rousseaux, Maxime Piraux, Jean-François Sambon, Axel Le
        <b>Days of Future Past: An Optimization-based Adaptive Bitrate Algorithm over HTTP/3</b><br/>
         Daniele Lorenzi <i>(University of Padua)</i>; Minh Nguyen, Farzad Tashtarian <i>(Alpen-Adria-Universität Klagenfurt)</i>; Christian Timmerer <i>(Alpen-Adria Universität Klagenfurt)</i>; Hermann Hellwagner <i>(Alpen-Adria-Universität Klagenfurt)</i>; Simone Milani <i>(University of Padua)</i>
     </td>
-    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
+    <td class="tg-0pky"><a href="https://dl.acm.org/doi/10.1145/3488660.3493802">paper</a>, <a href="https://github.com/epiq21/epiq21.github.io/raw/main/slides/paper2_daysoffuturepast.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=GMNvOtQFro0">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">2:45 - 3:15PM</td>
     <td class="tg-0pky"><b>Tracking the QUIC Spin Bit on Tofino</b><br/>
     Ike Kunze, Constantin Sander, Klaus Wehrle, Jan Rüth <i>(RWTH Aachen University)</i>
     </td>
-    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
+    <td class="tg-0pky"><a href="https://dl.acm.org/doi/10.1145/3488660.3493804">paper</a>, <a href="https://github.com/epiq21/epiq21.github.io/raw/main/slides/paper3_spinbit.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=GMNvOtQFro0">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">3:15 - 3:30PM</td>
@@ -69,20 +69,20 @@ Christophe Crochet, Tom Rousseaux, Maxime Piraux, Jean-François Sambon, Axel Le
     <td class="tg-0pky">3:30 - 4:00PM</td>
     <td class="tg-0pky"><b>The Search of the Path MTU with QUIC</b><br/>
 Timo Völker, Michael Tüxen <i>(FH Münster University of Applied Sciences)</i>; Erwin P. Rathgeb <i>(University of Duisburg-Essen)</i></td>
-    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
+    <td class="tg-0pky"><a href="https://dl.acm.org/doi/10.1145/3488660.3493805">paper</a>, <a href="https://github.com/epiq21/epiq21.github.io/raw/main/slides/paper4_mtu.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=GMNvOtQFro0">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">4:00 - 4:30PM</td>
     <td class="tg-0pky"><b>Evaluation of QUIC-based MASQUE Proxying</b><br/>
 Mirja Kühlewind, Matias Carlander-Reuterfelt, Marcus Ihlar, Magnus Westerlund <i>(Ericsson)</i></td>
-    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
+    <td class="tg-0pky"><a href="https://dl.acm.org/doi/10.1145/3488660.3493806">paper</a>, <a href="https://github.com/epiq21/epiq21.github.io/raw/main/slides/paper5_masque.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=GMNvOtQFro0">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">4:30 - 5:00PM</td>
     <td class="tg-0pky">
       <b>Congestion Control for Real-time Media over QUIC</b><br/>
         Mathis Engelbart, Jörg Ott <i>(Technical University of Munich)</i>
-    <td class="tg-0pky"><a href="TBD">paper</a>, <a href="TBD">slides</a>, <a href="TBD">recording</a></td>
+    <td class="tg-0pky"><a href="https://dl.acm.org/doi/10.1145/3488660.3493801">paper</a>, <a href="https://github.com/epiq21/epiq21.github.io/raw/main/slides/paper6_congestioncontrol.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=GMNvOtQFro0">recording</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">5:00 - 5:15PM</td>
@@ -92,7 +92,7 @@ Mirja Kühlewind, Matias Carlander-Reuterfelt, Marcus Ihlar, Magnus Westerlund <
   <tr>
     <td class="tg-0pky">5:15 - 6:00PM</td>
     <td class="tg-0pky">Keynote 2 : <b>QUIC usage at Apple</b><br/>Tommy Pauly</td>
-    <td class="tg-0pky"><a href="TBD">slides</a>, <a href="TBD">recording</a></td>
+    <td class="tg-0pky"><a href="https://github.com/epiq21/epiq21.github.io/raw/main/slides/keynote2_apple.pdf">slides</a>, <a href="https://www.youtube.com/watch?v=GMNvOtQFro0">recording</a></td>
   </tr>
 </tbody>
 </table>
