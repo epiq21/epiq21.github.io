@@ -99,16 +99,21 @@ Mirja Kühlewind, Matias Carlander-Reuterfelt, Marcus Ihlar, Magnus Westerlund <
 
 ## Practicals
 
-The workshop will be entirely virtual via Zoom (links to be posted later).
-
 Note that to attend the workshop, **you must register for the CoNEXT conference**.
 This can be done on [this dedicated registration page](https://conferences2.sigcomm.org/co-next/2021/#!/registration).
+
+The workshop will be entirely virtual via Zoom.
+You can join the Zoom room by visiting the [CoNEXT gather.town instance](https://gather.town/app/sc1FxxkPfdI5HM5e/conext-2021).
+There you need to walk to the room for **Workshop 2**, where you can join the Zoom room.
+Practical note: you probably won't be able to be both in gather.town and Zoom at the same time, due to conflicting video/audio device usage. 
 
 Additional chat will take place on the [SIGCOMM slack group](https://sigcomm.slack.com), via the dedicated "conext21-workshop-epiq" channel. 
 If you are not yet registered there, you can do so [via this link](https://sigcomm.slack.com/join/shared_invite/zt-uhdre6eo-dcEZe7iZWLPMlMdaEMAl5g#/shared-invite/email).
 
-The workshop will be recorded and videos posted to YouTube afterwards. 
+In case you are having trouble joining the Zoom room, ask for help in the above slack channel,
+or send an email directly to co-chair [Christopher Wood](caw@heapingbits.net). 
 
+The workshop will be recorded and videos posted to YouTube or elsewhere afterwards. 
 
 ## Call For Submissions
 
